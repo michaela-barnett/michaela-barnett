@@ -18,7 +18,7 @@ I'm a Tinkerer 🛠 , Ex-programmer 💻 , and Founder 👩🏾‍💻 !
 
 Subscribe to my Youtube channel: ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCglQMOMB59vexcu5vFomJIw?style=plastic)
 
-Follow with me on Twitter: ![Twitter](https://img.shields.io/twitter/follow/comp_sci_barbie?style=plastic)
+Follow with me on Twitter: ![Twitter](https://img.shields.io/twitter/follow/MKTY8?style=plastic)
 
 Follow with me on Instagram: ![Instagram](https://img.shields.io/badge/computersciencebarbie-Instagram-ff69b4?link=https://www.instagram.com/computersciencebarbie/?hl=en/right)
 
