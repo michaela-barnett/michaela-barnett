@@ -48,11 +48,15 @@ Operating Systems 🐧
 
 ## Awards 
 
+- Military Cyber Proffesionals Association Order of Thor (December 2022)🏆
+- Nominee: SANS Difference Makers Award 2022 Finalist (November 2022)🏆
+- Cyberscoop50 Most Inspiring Up and Comer 2022 (October 2022)🏆
+- Nominee: Women’s of Cyberjutsu Awards 2021 - Cyber Advocate (October 2021)🏆
 - Technical.ly RealLIST Engineer 2021 (October 2021)🏆
 - Cyber Tacos Cybersecurity Impact Awards Honoree (June 2020)🏆
 - BEYA Outstanding Achievement Award - Science Spectrum Trailblazer (February 2020)🏆
 - Nominee: Technologist of The Year Award 2021 Issued by STEMedia® (November 2021)🏆
-- Nominee: Women’s of Cyberjutsu Awards 2021 - Cyber Advocate (October 2021)🏆
+
 
 
 <!---
