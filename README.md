@@ -1,7 +1,7 @@
 ![Alt Image text](https://github.com/michaela-barnett/michaela-barnett/blob/356f13d91d3de16ad4c81b238466d42a9b1c668d/Github%20(1).png)
 
 <h2 align="left">
-    Hi there! I'm <a href="http://computersciencebarbie.com" target="_blank" rel="noreferrer">Michaela Barnett</a> and this is my Github!
+    Hi there! I'm <a href="http://michaelabarnett.info" target="_blank" rel="noreferrer">Michaela Barnett</a> and this is my Github!
 </h2>
 
 <h2 align="left">
